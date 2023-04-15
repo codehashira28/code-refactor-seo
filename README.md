@@ -10,6 +10,11 @@ N/A
 
 ## Usage
 
+The navigational links at the top of the page can be used to quickly navigate or "jump" to a particular section of the page to learn more about the requested topic. When a navigation option is hoverd over, the text changes color to ensure you that the link is ready to be clicked. 
+
+
+![Navigational Links](assets/images/Navigational%20Links.jpg)
+
 ## Credits
 
 N/A
