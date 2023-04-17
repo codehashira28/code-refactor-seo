@@ -4,6 +4,8 @@
 
 The code-refactor-seo project aims to refactor the codebase for the Horiseon webpage by adding accesibilty features and providing semantic HTML structure. This will not only provide more accessibilty for users with disablities, but it will also improve SEO (Search Engine Optimization).
 
+[Horiseon Project](https://codehashira28.github.io/code-refactor-seo/)
+
 ## Installation
 
 N/A
